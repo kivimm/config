@@ -1,0 +1,15 @@
+{
+    "server": "0.0.0.0",
+    "port_password": {
+        "443": "fLQtXEps$r0V4F",
+        "465": "8QvkI*Va$8L6Kaeb",
+        "993": "57fxICblsALjpenv",
+        "995": "P4x&NPduf%ImcsqJ"
+    },
+    "fast_open": true,
+    "timeout": 300,
+    "user": "nobody",
+    "method": "chacha20-ietf-poly1305",
+    "nameserver": "8.8.8.8",
+    "mode": "tcp_and_udp"
+}
